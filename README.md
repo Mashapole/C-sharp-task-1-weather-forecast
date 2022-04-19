@@ -16,6 +16,7 @@ the minimum temperature, maximum temperature, precipitation, humidity, and wind
 speed per day should be generated and displayed. The lowest minimum temperature, as
 well as the highest maximum temperature, precipitation, humidity, and wind speed that
 was forecasted within the specified date range should be highlighted.
+
 • Generate a weather forecast report for multiple cities within a specific date range: The
 weather forecaster should select all the cities that should be included in the report, as well
 as specify the start and end date that the report should be based on. The minimum
