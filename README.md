@@ -10,6 +10,7 @@ The application allow weather forecasters to:
 - Precipitation
 - Humidity and
 - Wind speed.
+
 • Generate a weather forecast report for a specific city within a specified date range: The
 weather forecaster should select a city, start date and end date and then a report indicating
 the minimum temperature, maximum temperature, precipitation, humidity, and wind
